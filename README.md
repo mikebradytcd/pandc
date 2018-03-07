@@ -28,4 +28,8 @@ $ make
 ```
 Now, whenever you make changes to the source file `pandc.c` you can simply enter `$ make` to recompile and relink the application.
 
-If the github repository is updated, all you have to to is `$ git pull` to download the updates. You may have to repeat steps 2 to 5 to recompile the application correctly.
+If the github repository is updated, all you have to do is:
+```
+$ git pull
+```
+to download the updates. You may have to repeat steps 2 to 5 to recompile the application correctly.
