@@ -1,4 +1,4 @@
-# pandc
+# PandC
 Producers and Consumers Sample Solution
 
 Please bear in mind that this is a work in progress. Right now it certainly isn't complete, and what actually *is* there might be wrong.
