@@ -33,3 +33,9 @@ If the github repository is updated, all you have to do is:
 $ git pull
 ```
 to download the updates. You may have to repeat steps 2 to 5 to recompile the application correctly.
+
+To keep the code nicely formatted, I suggest you use `clang-format`:
+
+```
+clang-format -i pandc.c
+```
