@@ -1,0 +1,13 @@
+Build instructions:
+
+$ cd into the directory containing this file
+$ autoreconf -fi
+$ ./configure
+$ make
+
+To recompile, just run:
+
+$ make
+
+again
+
